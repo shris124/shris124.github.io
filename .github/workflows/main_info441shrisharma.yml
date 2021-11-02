@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'info441shrisharma'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F8D7DA4855994CE78F21D6CA8038077D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE20F4321E684229B196B677E7CB454F }}
           package: .
